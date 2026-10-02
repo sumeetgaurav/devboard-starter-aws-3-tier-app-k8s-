@@ -86,7 +86,7 @@ function HeroProgress({ done, total, pct }) {
         </span>
       </div>
       <p className="mt-1 text-[13px] text-ink-600 dark:text-ink-400">
-        tasks completed in <span className="font-mono">DevBoard MVP on AWS</span>
+        tasks completed in <span className="font-mono">DevBoard MVP on Amazon Web Service(AWS)</span>
       </p>
 
       {/* progress bar */}
